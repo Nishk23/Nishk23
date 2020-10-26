@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Recommendation engine using deep learning
-- 🌱 I’m currently learning Keras, Tensorflow, data augmentation
-- 🤔 I’m looking for help with Deep learning
+- 🌱 I’m learning on Deep Learning, Tensorflow, data augmentation
+- 🤔 Looking for help with Deep learning
 - 💬 Ask me about Data Science, Data viz and so on 
 - 📫 How to reach me:&nbsp; <a href="linkedin.com/in/nishanth-narayanan-bbb12a18b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp; <a href="mailto:nishanthnishk2020@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nishanth" height="20" width="20" /></a>
 - :house: My other profiles: &nbsp;<a href="https://www.kaggle.com/nishanthnarayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp;<a href="https://medium.com/@nishanthnishk2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Nishanth" height="20" width="20" /></a>
