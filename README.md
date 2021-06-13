@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="MySQL" height="80" width="80" />&nbsp;<img align="center" src="https://index.impakter.com/wp-content/uploads/2020/11/Oracle-Logo-2048x1152.png" alt="Oracle" height="50" width="60" />&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/440px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" width="50" />
 
 ## Tools
-<img align="center" src="https://hackthestuff.com/uploads/subCategories/logo-git.png" alt="Git" height="50" width="50" />&nbsp;<img align="center" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" alt="Eclipse IDE" height="50" width="130" />&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" width="50" />
+<img align="center" src="https://hackthestuff.com/uploads/subCategories/logo-git.png" alt="Git" height="50" width="50" />&nbsp;<img align="center" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" alt="Eclipse IDE" height="50" width="160" />&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" width="50" />
+<br/>
 
-## So, feel free to take a look around :grin: 
+# 😁 So, feel free to take a look around 😁
