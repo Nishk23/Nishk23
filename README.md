@@ -4,11 +4,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as a Full Stack Engineer at Cognizant
+- 👨‍💼 I’m currently working as a Full Stack Engineer at Cognizant and 👨‍💻 also an Aspiring Data Scientist.
+- I am an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 - 🌱 I’m interested on Data Science, Machine Learning, Deep Learning, Tensorflow, Data augmentation and Data Visualization
-- 💬 Ask me about Data Science, Data viz and so on...
-- 📫 How to reach me:&nbsp; <a href="linkedin.com/in/nishanth-narayanan-bbb12a18b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp; <a href="mailto:nishanthnishk2020@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nishanth" height="20" width="20" /></a>
-- :house: My other profiles: &nbsp;<a href="https://www.kaggle.com/nishanthnarayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp;<a href="https://medium.com/@nishanthnishk2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Nishanth" height="20" width="20" /></a>
+- 💬 Ask me about anything, I am happy to help. ✔️
+- 📫 How to reach me❓ &nbsp; <a href="linkedin.com/in/nishanth-narayanan-bbb12a18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp; <a href="mailto:nishanthnishk2020@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Nishanth" height="20" width="20" /></a>
+- :house: My other profiles❕ &nbsp;<a href="https://www.kaggle.com/nishanthnarayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Nishanth" height="20" width="20" /></a>&nbsp;&nbsp;<a href="https://medium.com/@nishanthnishk2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Nishanth" height="20" width="20" /></a>
 - 😄 Pronouns: Committed with my Passion, Charming
 <!--- ⚡ Fun fact: ...-->
 
