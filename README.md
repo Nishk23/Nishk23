@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 * Java (Beginner)
 
-## So feel free to take a look around :grin: 
+## So, feel free to take a look around :grin: 
