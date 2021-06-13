@@ -25,23 +25,12 @@ Here are some ideas to get you started:
 </p>
 
 ## Programming Languages
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/python.svg" alt="Python" height="40" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/java.svg" alt="Java" height="40" width="40" />
-<img align="center" src="https://www.svgrepo.com/show/127001/sql-file-format.svg" alt="SQL" height="40" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/javascript.svg" alt="JavaScript" height="40" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/cplusplus.svg" alt="C++" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/python.svg" alt="Python" height="40" width="40" />&nbsp;<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/java.svg" alt="Java" height="40" width="40" />&nbsp;<img align="center" src="https://www.svgrepo.com/show/127001/sql-file-format.svg" alt="SQL" height="40" width="40" />&nbsp;<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/javascript.svg" alt="JavaScript" height="40" width="40" />&nbsp;<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/cplusplus.svg" alt="C++" height="40" width="40" />
 
 ## Frontend Technology
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/html5.svg" alt="HTML5" height="40" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/css3.svg" alt="CSS3" height="40" width="40" />
-<img align="center" src="https://icons.getbootstrap.com/assets/img/icons-hero@2x.png" alt="Bootstrap" height="40" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/angular.svg" alt="Angular" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/html5.svg" alt="HTML5" height="40" width="40" />&nbsp;<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/css3.svg" alt="CSS3" height="40" width="40" />&nbsp;<img align="center" src="https://icons.getbootstrap.com/assets/img/icons-hero@2x.png" alt="Bootstrap" height="40" width="40" />&nbsp;<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/angular.svg" alt="Angular" height="40" width="40" />
 
 ## Backend Technology
-<img align="center" src="https://www.mtaeducation.in/images/courses/details/corejava.png" alt="Core Java" height="40" width="40" />
-<img align="center" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" alt="Spring" height="40" width="40" />
-<img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png" alt="Spring Boot" height="40" width="40" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1600px-Hibernate_logo_a.png" alt="Hibernate" height="40" width="40" />
-<img align="center" src="https://miro.medium.com/max/1200/1*qRmUe3eC9rhx8WtqNATlag.png" alt="JPA" height="40" width="40" />
+<img align="center" src="https://www.mtaeducation.in/images/courses/details/corejava.png" alt="Core Java" height="40" width="40" />&nbsp;<img align="center" src="https://www.nicepng.com/png/detail/31-314820_logo-spring-spring-framework-logo-svg.png" alt="Spring" height="40" width="40" />&nbsp;<img align="center" src="https://www.javacodegeeks.com/wp-content/uploads/2018/07/SpringBoot.png" alt="Spring Boot" height="40" width="40" />&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1600px-Hibernate_logo_a.png" alt="Hibernate" height="40" width="40" />&nbsp;<img align="center" src="https://miro.medium.com/max/1200/1*qRmUe3eC9rhx8WtqNATlag.png" alt="JPA" height="40" width="40" />
 
 ## So, feel free to take a look around :grin: 
