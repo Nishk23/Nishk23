@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Languages and Tools
-<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/python.svg" alt="Python" height="20" width="20" /></a>
+<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/python.svg" alt="Python" height="40" width="40" /></a>
 
 ## So, feel free to take a look around :grin: 
