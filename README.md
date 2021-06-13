@@ -24,14 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Nishk23&show_icons=true&theme=radical" alt="Nishanth" /> 
 </p>
 
-## My languages
-
-* Jupyter Notebook(Python in that)
-
-* Python
-
-* HTML
-
-* Java (Beginner)
+## Languages and Tools
+<img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/python.svg" alt="Python" height="20" width="20" /></a>
 
 ## So, feel free to take a look around :grin: 
