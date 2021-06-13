@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 ## Tools
 <img align="center" src="https://hackthestuff.com/uploads/subCategories/logo-git.png" alt="Git" height="50" width="50" />&nbsp;<img align="center" src="https://www.eclipse.org/org/artwork/images/logo-800x188.png" alt="Eclipse IDE" height="50" width="200" />&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" width="50" />
-<hr>
+<hr/>
+
 ## ➡️ *More about myself will be coming in the future* ⏲️
 
 # 😁 *So, feel free to take a look around* 😀
