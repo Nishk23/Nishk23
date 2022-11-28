@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👨‍💼 I’m currently working as a Programmer Analyst at Cognizant and 👨‍💻 also an Aspiring Data Scientist.
+- 👨‍💼 I’m a Master's student at Friedrich-Alexander-Universität Erlangen-Nürnberg and 👨‍💻 also an Aspiring Data Scientist.
 - ❤️ I am an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 - 🌱 I’m interested on Data Science, Machine Learning, Deep Learning, Tensorflow, Data augmentation and Data Visualization
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
